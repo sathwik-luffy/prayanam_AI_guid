@@ -1,3 +1,16 @@
+<h1 align="center">Prayanam 🚌🚇</h1>
+
+<p align="center">
+  <b>Hyderabad's Smart, Safe & Affordable Trip Planner</b><br>
+  Plan your journey across RTC Buses, Metro, Ola & Rapido — cheapest, fastest, and safest.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Gemma%204-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
+</p>
 
 ---
 
@@ -48,13 +61,16 @@ Prayanam is powered by **Gemma 4**, which drives the trip analysis, recommendati
    → user is redirected to the cheaper/faster option's booking page.
 6. After trip completion → user gives feedback (experience + safety rating).
 7. Feedback is stored and used to improve future safety recommendations.
+```
 
-```<p align="center">
+<p align="center">
   <img src="./flow.png" alt="Prayanam Architecture Diagram" width="700"/>
 </p>
+
 ---
 
 ## 📸 Screenshots
+
 <p align="center">
   <img src="./main%20page.png" alt="Main Page" width="250"/>
   <img src="./login.png" alt="Login Page" width="250"/>
@@ -65,7 +81,6 @@ Prayanam is powered by **Gemma 4**, which drives the trip analysis, recommendati
   <img src="./ids.png" alt="Route/Bus IDs" width="250"/>
   <img src="./open%20sourses.png" alt="Open Sources / Data Credits" width="250"/>
 </p>
-
 
 ---
 
@@ -89,15 +104,15 @@ Prayanam is powered by **Gemma 4**, which drives the trip analysis, recommendati
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/prayanam.git
-cd prayanam
+git clone https://github.com/sathwik-luffy/prayanam_AI_guid.git
+cd prayanam_AI_guid
 # install dependencies
-npm install        # or: pip install -r requirements.txt
+npm install
 ```
 
 ### Running the App
 ```bash
-npm start           # or: python app.py
+npm start
 ```
 
 ---
@@ -115,6 +130,7 @@ npm start           # or: python app.py
 Contributions are welcome! Please fork the repo and submit a pull request, or open an issue for bugs and feature requests.
 
 ---
+
 
 
 ---
