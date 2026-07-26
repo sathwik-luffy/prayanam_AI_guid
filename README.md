@@ -48,12 +48,10 @@ Prayanam is powered by **Gemma 4**, which drives the trip analysis, recommendati
    → user is redirected to the cheaper/faster option's booking page.
 6. After trip completion → user gives feedback (experience + safety rating).
 7. Feedback is stored and used to improve future safety recommendations.
-```
 
-<p align="center">
-  <img src="./assets/architecture-diagram.png" alt="Prayanam Architecture Diagram" width="700"/>
+```<p align="center">
+  <img src="./flow.png" alt="Prayanam Architecture Diagram" width="700"/>
 </p>
-
 ---
 
 ## 📸 Screenshots
