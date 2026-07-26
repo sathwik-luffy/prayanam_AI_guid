@@ -57,14 +57,17 @@ Prayanam is powered by **Gemma 4**, which drives the trip analysis, recommendati
 ---
 
 ## 📸 Screenshots
-
 <p align="center">
-  <img src="./assets/screenshot-home.png" alt="Home Screen" width="250"/>
-  <img src="./assets/screenshot-route.png" alt="Route Comparison" width="250"/>
-  <img src="./assets/screenshot-feedback.png" alt="Safety Feedback Screen" width="250"/>
+  <img src="./main%20page.png" alt="Main Page" width="250"/>
+  <img src="./login.png" alt="Login Page" width="250"/>
+  <img src="./how%20it%20works.png" alt="How It Works" width="250"/>
 </p>
 
-> Replace the images above with your actual app screenshots — save them inside an `/assets` folder in your repo and update the file names/paths accordingly.
+<p align="center">
+  <img src="./ids.png" alt="Route/Bus IDs" width="250"/>
+  <img src="./open%20sourses.png" alt="Open Sources / Data Credits" width="250"/>
+</p>
+
 
 ---
 
